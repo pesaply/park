@@ -4,7 +4,7 @@ return [
     'class' => 'yii\db\Connection',
     'dsn' => 'mysql:host=localhost;dbname=pesapark',
     'username' => 'root',
-    'password' => '@Webtechsmpp..',
+    'password' => '@PesaparkApi2@#00',
     'charset' => 'utf8',
 
     // Schema cache options (for production environment)
