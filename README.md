@@ -5,34 +5,15 @@ Feel free to fork this project and send pull request, your contribution will be 
 REQUIREMENTS
 ------------
 
+
+Send your Pull Request 
+Contribut To This Project Wherever you can
+
 The minimum requirement by this project template that your Web server supports PHP 5.4.0.
 
 
 INSTALLATION
 ------------
-
-### Install via Composer
-
-If you do not have [Composer](http://getcomposer.org/), you may install it by following the instructions
-at [getcomposer.org](http://getcomposer.org/doc/00-intro.md#installation-nix).
-
-You can then install this project template using the following command:
-
-~~~
-php composer.phar create-project --prefer-dist --stability=dev yiisoft/yii2-app-basic basic
-~~~
-
-Now you should be able to access the application through the following URL, assuming `basic` is the directory
-directly under the Web root.
-
-~~~
-http://localhost/basic/web/
-~~~
-
-### Install from an Archive File
-
-Extract the archive file downloaded from [yiiframework.com](http://www.yiiframework.com/download/) to
-a directory named `basic` that is directly under the Web root.
 
 Set cookie validation key in `config/web.php` file to some random secret string:
 
